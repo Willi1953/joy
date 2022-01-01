@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="ayb2C}2(rZJrk}G1GspU" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="JoyCar_light" id="|~I|%z6=YAcj:NgDJK$p"><field name="toggle">ToggleSwitch.On</field></block></statement></block></xml>
